@@ -1,1 +1,27 @@
-﻿Console.WriteLine("Hello, World!");
+﻿/* Основные типы данных в языке C#:
+
+Целый: 
+int 
+long 
+
+Вещественный:
+float 
+double 
+
+Символьный:
+char
+
+Логический: 
+ bool (true \ false)
+
+*/
+
+int value = 100;
+Console.WriteLine(value);
+
+double d = 5.55;
+char c = '!';
+bool b = true;
+Console.WriteLine(d);
+Console.WriteLine(c);
+Console.WriteLine(b);
